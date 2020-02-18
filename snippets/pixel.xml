@@ -18,6 +18,8 @@
           fetch="https://gitlab.com" />
 
   <!-- CodeAurora additions -->
+  <project path="vendor/MiuiCamera" name="vendor_MiuiCamera" remote="pixel" />
+  <project path="packages/apps/PixelLiveWallpaper" name="packages_apps_PixelLiveWallpaper" remote="pixel-gitlab" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="pixel" />
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="pixel" />
   <project path="hardware/qcom-caf/sm8150/audio" name="hardware_qcom-caf_sm8150_audio" remote="pixel" />
