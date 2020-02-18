@@ -804,4 +804,7 @@
   <!-- Raphael Add -->
   <include name="snippets/raphael.xml" />
 
+  <!-- Settings -->
+  <include name="snippets/setting.xml" />
+
 </manifest>
