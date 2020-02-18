@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="ionzer"
+          fetch="https://github.com/Android-Raphael"
+          revision="ionzer-ten" />
+
+  <!-- Vendor/Xiaomi/Raphael -->
+  <project path="vendor/xiaomi" name="vendor_xiaomi" remote="ionzer" />
+
+  <!-- Device/Xiaomi/raphael -->
+  <project path="device/xiaomi/raphael" name="device_xiaomi_raphael" remote="ionzer" />
+
+  <!-- Kernel/Xiaomi/Raphael -->
+  <project path="kernel/xiaomi/raphael" name="kernel_xiaomi_raphael" remote="ionzer" />
+
+  <!-- Try Add Live Wallpaper Google -->
+
+</manifest>

@@ -798,4 +798,7 @@
   <!-- Add all PixelExperience repos -->
   <include name="snippets/pixel.xml" />
 
+  <!-- Raphael Add -->
+  <include name="snippets/raphael.xml" />
+
 </manifest>
