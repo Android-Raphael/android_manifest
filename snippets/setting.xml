@@ -17,7 +17,7 @@
   <remote name="gitlab"
           fetch="https://gitlab.com" />
 
-  <project path="vendor/MiuiCamera" name="vendor/MiuiCamra" remote="pixel" />
+  <project path="vendor/MiuiCamera" name="vendor_MiuiCamera" remote="pixel" />
   <project path="packages/apps/PixelLiveWallpaper" name="packages_apps_PixelLiveWallpaper" remote="pixel-gitlab" />
 
 </manifest>
