@@ -793,7 +793,7 @@
   <include name="snippets/ion.xml" />
 
   <!-- manifest -->
-  <include name="snippets/build.xml" />
+  
 
   <!-- Add some LineageOS repos -->
   <include name="snippets/lineage.xml" />
@@ -805,6 +805,6 @@
   <include name="snippets/raphael.xml" />
 
   <!-- Settings -->
-  <include name="snippets/setting.xml" />
+  
 
 </manifest>
