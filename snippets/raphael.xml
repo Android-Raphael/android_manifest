@@ -14,6 +14,7 @@
   <!-- Kernel/Xiaomi/Raphael -->
   <project path="kernel/xiaomi/raphael" name="kernel_xiaomi_raphael" remote="ionzer" />
 
-  <!-- Try Add Live Wallpaper Google -->
+  <!-- ION Apps-->
+  <project path="packages/apps/ionizer" name="packages_apps_ionizer" remote="ionzer" />g
 
 </manifest>
