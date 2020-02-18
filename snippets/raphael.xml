@@ -17,6 +17,6 @@
   <!-- ION Apps-->
   <project path="packages/apps/ionizer" name="packages_apps_ionizer" remote="ionzer" />
   
-  <project path="manifest" name="android_manifest" remote="ionzer" />
+  
 
 </manifest>
