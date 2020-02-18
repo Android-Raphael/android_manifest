@@ -15,6 +15,6 @@
   <project path="kernel/xiaomi/raphael" name="kernel_xiaomi_raphael" remote="ionzer" />
 
   <!-- ION Apps-->
-  <project path="packages/apps/ionizer" name="packages_apps_ionizer" remote="ionzer" />g
+  <project path="packages/apps/ionizer" name="packages_apps_ionizer" remote="ionzer" />
 
 </manifest>
